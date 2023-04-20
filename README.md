@@ -1,7 +1,7 @@
 # Assignment
 Task-1:
 Written a python script to download text data from the Poshan Tracker website -
-https://www.poshantracker.in/ 
+https://www.poshantracker.in/.
 Here I have downloaded the text data in Hindi and English from the above website by considering the FAQ scenario.
 
 Task-2:
