@@ -1,0 +1,128 @@
+What is Poshan Abhiyaan?
+Poshan Abhiyaan is India’s flagship programme to improve nutritional outcomes for children, adolescents, pregnant women and lactating mothers by leveraging technology, a targeted approach and convergence.
+What is the purpose of Launching Poshan Tracker?
+The purpose of POSHAN Tracker application is to provide a 360-degree view of the activities of the Anganwadi Centre (AWC), service deliveries of Anganwadi Workers (AWWs) and complete beneficiary management for pregnant women, lactating mothers and children. The proposed system should enable real-time monitoring and tracking of all AWCs, AWWs and beneficiaries on the defined indicators.
+How can one Download Poshan Tracker App?
+Poshan Tracker App is available over Google playstore https://play.google.com/store/apps/details?id=com.poshantracker
+Is poshan trackers app available over Apple I Store also?
+No, Poshan Tracker is available only for Android version
+What is the minimum requirement to install Poshan Tracker App in mobile?
+Poshan Tracker App can only be installed in Android Phone with Android version 6.0 and above.
+Can App be accessed without internet?
+App can be accessed offline, currently daily tracking feature is available for offline data entry. Offline mode can store latest 3 days data.
+Who are the target userbase of Poshan Tracker App?
+Poshan Tracker App is meant for Aanganwadi workers, Anganwadi centers to enter beneficiaries data in the forms. It is not at all developed for general public.
+How to Login in Poshan Tracker App?
+AWWs are requested to enter their mobile numbers in the Login screen. An OTP will be sent to your registered mobile number, post which you are required too set your MPIN.
+What is MPIN?
+MPIN is a 4 digits passcode which is set by an Anganwadi worker while registering over the Poshan Tracker App.
+How to set MPIN?
+MPIN can be set by respective Anganwadi worker by requesting an OTP against his/her mobile number. If Mobile number is already present in the database, the respective Anganwadi person will receive 4 digits OTP on registered mobile number. Post entering the OTP, AWW can easily set customized MPIN.
+When and how to use MPIN?
+While login to the Poshan Tracker App, AWWs are required to enter the MPIN set by them. This MPIN will act as a passcode to run the Poshan Tracker App and entering the information in the beneficiaries forms.
+How to Reset MPIN?
+MPIN can be easily reset by any AWW/AWC user. You are required to click on Forgot MPIN, and enter your registered mobile number. You will receive and OTP on your registered mobile number and you can ealily reset your MPIN
+In How many languages the Poshan Tracker App is available?
+Poshan Tracker App is available in 22 different languages
+The various languages available are:
+English
+Hindi
+Gujarati
+Punjabi
+Marathi
+Bangla
+Kannada
+Tamil
+Telugu
+Malyalam
+Odia
+Assamese
+Nepali
+Dogri
+Konkani
+Sindhi
+Bodo
+Maithili
+Manipuri
+Santhali
+Urdu
+Kashmiri
+In how many languages AWW can enter the data while filling up the form?
+There are limited fields for data entry. Name is required to be entered in English language and for other fields numeric values are required. Most of the features are provided in check boxes or with drop down selection menu. Reports to be updated.
+How many different forms are there in Poshan Tracker App?
+There are 7 different types of forms for beneficiaries. This includes:
+Lactating mother
+Pregnant women
+Child 0-6 Months
+Child 6 Months to 3 Years
+Child 3 Years to 6 Years
+Adolescent Girls (11 Years-19 Years)
+What information to be added in AWC forms?
+AWW are required to enter details related to infrastructure present in a particular Anganwadi centre. This includes structure, basic amenities, facilities, sanitization, drinking water etc.
+How AWWS can sign up on the app if they are unable to register via their mobile numbers?
+In case AWW is unsuccessful in registering themselves there might be 2 possibilities:
+Their mobile number is not present in the data provided by the states to the MoWCD
+They are newly added to the system and their mobile number is not yet provided by the state cell to the MoWCD.
+In both the above cases state nodal officers are empowered to add/ edit/Activate/Deactivate any of the AWW.
+How can one access Poshan Tracker Dashboard?
+Poshan Tracker Dashboard can be accessed by signing onto the dashboard. Dashboard can be accessed by clicking the link https://poshantracker.in/admin Only nominated Nodal level officials at National, State, District, Project and Sector level are provided with a unique credentials to access the dashboard.
+How one can add AWW/AWCs?
+AWW/AWCs can only be added by nodal level official. Anybody in the above rank in the hierarchy.
+How many different types of reports can be generated over Poshan Tracker Dashboard?
+There are various reports that can be generated from
+General Reports:
+Number of app downloads
+Total number of Anganwadi centers registered
+Total number of beneficiaries registered (National/state/district/block wise)
+Total Number of pregnant women registered(National/state/district/block wise)
+Total Number of lactating mothers registered(National/state/district/block wise)
+Total Number of children (0-6months) registered(National/state/district/block wise)
+Total Number of children (6months-3years) registered(National/state/district/ block wise)
+Total Number of children (3-6years) registered(National/state/district/ block wise)
+Maternal and child nutrition:
+How many beneficiaries got THR in 21 days
+How many children breastfed exclusively in the first hour after delivery
+How many lactating mothers are given HCM
+Average level of calcium in children aged 3-6 years
+Average level of iron in children aged 3-6years
+Total number of vaccinations administered per month (block, district, state, national level)
+Vaccinations specific report administered per month (BCG/OPV/Hepatitis B/Rotavirus/Polio/Pneumococcal/Pentavalent
+AWC infrastructure:
+Number of AWCs (block, district, state, national level)
+Total number of Balvatikas (block district, state, national level)
+Total number of AWCs (block, district, state, national level) with clean drinking water
+Total number of AWCs (block, district, state, national level) with working weighing scale
+Total number of AWCs (block, district, state, national level) with electricity
+Total number of AWCs that are government owned
+Total number of AWCs that are privately owned
+How to contact Poshan Tracker Team?
+Poshan Tracker Team can be contacted by sending emails at support-poshantrackr@gov.in. For handholding and support we are also available over Video Conference each day 4:15 PM to 5:15 PM.
+Can a beneficiary register directly using application.
+Currently a beneficiary can register by the help of an AWW
+Who is a beneficiary?
+There are 6 categories for beneficiaries
+Pregnant Women
+Lactating Mother
+Children from 0 to 6 months
+Children from 6 months to 3 years
+Children from 3 years to 6 years
+Adolescent girls
+Can a beneficiary change his/her AWC?
+An AWW can use ‘Migrate Beneficiary’ option to migrate a beneficiary from one AWC to another AWC basis their Aadhaar number.
+What is the eligibility of a beneficiary?
+A beneficiary is eligible for THR for at least 21 days in a month.
+Who is eligible for Take Home Ration?
+Pregnant Women, Lactating Mothers, Children from 6 months to 3 years and adolescent girls.
+Where can I enquire about take home ration?
+Please contact your respective Anganwadi worker.
+Who is eligible for additional supplementary food.
+Children who are identified as deficit on nutrition are eligible for additional food supplements.
+What is the eligibility of a beneficiary?
+A beneficiary is eligible for HCM for at least 21 days in a month.
+Who is eligible for Hot Cooked Meal?
+Children in the age group of 3 years to 6 years
+Where can I enquire about Hot Cooked Meal?
+Please contact your respective Anganwadi Centre.
+Who is eligible for additional supplementary food?
+Children who are identified as deficit on nutrition are eligible for additional food supplements.
+
